@@ -2,7 +2,7 @@ use std::fs::File;
 use std::io::prelude::*;
 use serde_json;
 
-pub static GITHUB_API: &str = "https://api.github.com/search/repositories?q=language:rust&per_page=100";    
+pub static GITHUB_API: &str = "https://api.github.com/search/repositories?q=language:c#&per_page=100";    
 
 pub struct Repository {
     pub name: String,
