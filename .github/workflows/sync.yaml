@@ -2,7 +2,7 @@ name: "Cron Job to regenerate Readme every 24 hours"
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+        - cron: "0 0 * * *"
   workflow_dispatch: 
   push:
 
