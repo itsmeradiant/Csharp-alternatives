@@ -1,29 +1,29 @@
-name: "Cron Job to regenerate Readme every 24 hours"
+name: "Cron Job to regenerate Readme every hour"
 
 on:
   schedule:
-        - cron: "0 0 * * *"
-  workflow_dispatch: 
+    - cron: "0 * * * *"
+  workflow_dispatch:
   push:
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        steps:
-        - uses: actions/checkout@v2
-        - name: Installing Rust
-          uses: actions-rust-lang/setup-rust-toolchain@v1
-        - name: Building with Cargo
-          uses: actions-rs/cargo@v1
-          with:
-            command: build
-            args: --release
-        - name: Generate Readme
-          run: cargo run --release
-        - name: Commit and Push changes
-          run: |
-                git config --local user.email "95236614+0xRad1ant@users.noreply.github.com"
-                git config --local user.name "0xRad1ant"
-                git add README.md
-                git commit -m "Regenerated Readme"
-                git push
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Installing Rust
+      uses: actions-rust-lang/setup-rust-toolchain@v1
+    - name: Building with Cargo
+      uses: actions-rs/cargo@v1
+      with:
+        command: build
+        args: --release
+    - name: Generate Readme
+      run: cargo run --release
+    - name: Commit and Push changes
+      run: |
+          git config --local user.email "95236614+0xRad1ant@users.noreply.github.com"
+          git config --local user.name "0xRad1ant"
+          git add README.md
+          git commit -m "Regenerated Readme"
+          git push
