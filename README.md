@@ -1,12 +1,13 @@
 # Tools create in C# : 
 
-Total repositories created in C#: 5612281
+Total repositories created in C#: 5719328
 
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+- [Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
@@ -29,6 +30,8 @@ Total repositories created in C#: 5612281
 - [ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.
 - [CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
 - [netch](https://github.com/netchx/netch) - A simple proxy client
+- [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 - [osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
@@ -54,6 +57,7 @@ Total repositories created in C#: 5612281
 - [MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+- [mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 - [duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
@@ -65,6 +69,7 @@ Total repositories created in C#: 5612281
 - [garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 - [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 - [orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
+- [Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 - [AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. 
 - [CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
@@ -82,6 +87,7 @@ Total repositories created in C#: 5612281
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
 - [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 9 RC1, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+- [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 - [FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
 - [machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET.
@@ -96,12 +102,6 @@ Total repositories created in C#: 5612281
 - [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 - [LiteDB](https://github.com/mbdavid/LiteDB) - LiteDB - A .NET NoSQL Document Store in a single data file
-- [refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
-- [reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
-- [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
-- [Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
-- [subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
-- [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 .NET SDK， Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 8.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.
 
 
 ## License
@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 
-##### _Last Run on 04-10-2024 21:14:45_
+##### _Last Run on 04-10-2024 22:14:50_
