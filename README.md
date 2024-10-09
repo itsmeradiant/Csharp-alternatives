@@ -1,6 +1,6 @@
 # Tools create in C# : 
 
-Total repositories created in C#: 5732592
+Total repositories created in C#: 5732759
 
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
@@ -9,6 +9,7 @@ Total repositories created in C#: 5732592
 - [aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 - [DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -101,7 +102,6 @@ Total repositories created in C#: 5732592
 - [Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 - [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
-- [refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
 
 ## License
@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 
-##### _Last Run on 09-10-2024 19:13:16_
+##### _Last Run on 09-10-2024 20:17:47_
