@@ -1,11 +1,12 @@
 # Tools create in C# : 
 
-Total repositories created in C#: 5876004
+Total repositories created in C#: 5876483
 
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+- [aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
@@ -60,6 +61,7 @@ Total repositories created in C#: 5876004
 - [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 - [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
+- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
@@ -100,8 +102,6 @@ Total repositories created in C#: 5876004
 - [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
 - [Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
-- [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-- [refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
 
 ## License
@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 
-##### _Last Run on 01-12-2024 18:21:47_
+##### _Last Run on 01-12-2024 19:12:46_
