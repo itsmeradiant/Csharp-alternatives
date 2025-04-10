@@ -1,6 +1,6 @@
 # Tools create in C# : 
 
-Total repositories created in C#: 6217115
+Total repositories created in C#: 6216825
 
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
@@ -17,12 +17,9 @@ Total repositories created in C#: 6217115
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.
 - [semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [CodeHub](https://github.com/CodeHubApp/CodeHub) - CodeHub is an iOS application written using Xamarin
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-- [maui](https://github.com/dotnet/maui) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 - [downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-- [SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 - [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
 - [roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
@@ -31,7 +28,6 @@ Total repositories created in C#: 6217115
 - [Dapper](https://github.com/DapperLib/Dapper) - Dapper - a simple object mapper for .Net
 - [PEASS-ng](https://github.com/peass-ng/PEASS-ng) - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 - [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 9
-- [netch](https://github.com/netchx/netch) - A simple proxy client
 - [CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 - [server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
@@ -40,7 +36,6 @@ Total repositories created in C#: 6217115
 - [optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net. 
 - [UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-- [OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
@@ -84,24 +79,29 @@ Total repositories created in C#: 6217115
 - [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 Preview 2, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 - [subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
-- [Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 - [Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
-- [ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
 - [nopCommerce](https://github.com/nopSolutions/nopCommerce) - ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
 - [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-- [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [g-helper](https://github.com/seerge/g-helper) - Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models
-- [FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
 - [uno](https://github.com/unoplatform/uno) - Open-source platform for building cross-platform native Mobile, Web, Desktop and Embedded apps quickly.  Create rich, C#/XAML, single-codebase apps from any IDE. Hot Reload included! 90m+ NuGet Downloads!!
+- [FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
 - [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 - [Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+- [Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+- [Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+- [machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET.
+- [UniTask](https://github.com/Cysharp/UniTask) - Provides an efficient allocation free async/await integration for Unity.
+- [refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+- [yarp](https://github.com/dotnet/yarp) - A toolkit for developing high-performance HTTP reverse proxy applications.
+- [MudBlazor](https://github.com/MudBlazor/MudBlazor) - Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
+- [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 
 
 ## License
@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 
-##### _Last Run on 10-04-2025 19:14:01_
+##### _Last Run on 10-04-2025 20:19:16_
