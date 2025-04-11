@@ -1,6 +1,6 @@
 # Tools create in C# : 
 
-Total repositories created in C#: 6219411
+Total repositories created in C#: 6219660
 
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
@@ -48,6 +48,7 @@ Total repositories created in C#: 6219411
 - [AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
 - [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
 - [abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.
+- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
 - [winsw](https://github.com/winsw/winsw) - A wrapper executable that can run any executable as a Windows service, in a permissive license.
 - [QuestPDF](https://github.com/QuestPDF/QuestPDF) - QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.
@@ -83,6 +84,7 @@ Total repositories created in C#: 6219411
 - [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 Preview 2, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 - [subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
+- [Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 - [Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
@@ -100,8 +102,6 @@ Total repositories created in C#: 6219411
 - [SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
 - [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 - [Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
-- [Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
-- [Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 
 
 ## License
@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 
-##### _Last Run on 11-04-2025 13:27:11_
+##### _Last Run on 11-04-2025 14:17:17_
