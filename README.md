@@ -1,6 +1,6 @@
 # Tools create in C# : 
 
-Total repositories created in C#: 6234979
+Total repositories created in C#: 6233331
 
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
@@ -14,7 +14,6 @@ Total repositories created in C#: 6234979
 - [DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.
 - [semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -35,11 +34,11 @@ Total repositories created in C#: 6234979
 - [netch](https://github.com/netchx/netch) - A simple proxy client
 - [server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
-- [lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
+- [lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
-- [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net. 
 - [UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net. 
 - [OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
@@ -64,12 +63,10 @@ Total repositories created in C#: 6234979
 - [BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
 - [Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
-- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube
 - [Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-- [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
+- [EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
-- [basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
@@ -87,7 +84,6 @@ Total repositories created in C#: 6234979
 - [Dependencies](https://github.com/lucasg/Dependencies) - A rewrite of the old legacy software "depends.exe" in C# for Windows devs to troubleshoot dll load dependencies issues.
 - [RestSharp](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET
 - [ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
-- [Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
 - [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
 - [FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 - [nopCommerce](https://github.com/nopSolutions/nopCommerce) - ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.
@@ -101,7 +97,11 @@ Total repositories created in C#: 6234979
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
 - [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
-- [Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+- [Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+- [Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+- [machinelearning](https://github.com/dotnet/machinelearning) - ML.NET is an open source and cross-platform machine learning framework for .NET.
+- [UniTask](https://github.com/Cysharp/UniTask) - Provides an efficient allocation free async/await integration for Unity.
+- [refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
 
 ## License
@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 
-##### _Last Run on 16-04-2025 23:16:17_
+##### _Last Run on 17-04-2025 01:22:48_
