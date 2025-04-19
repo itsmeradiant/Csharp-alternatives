@@ -1,6 +1,6 @@
 # Tools create in C# : 
 
-Total repositories created in C#: 6241191
+Total repositories created in C#: 6234711
 
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
@@ -35,8 +35,8 @@ Total repositories created in C#: 6241191
 - [netch](https://github.com/netchx/netch) - A simple proxy client
 - [osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
-- [runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net. 
@@ -55,7 +55,6 @@ Total repositories created in C#: 6241191
 - [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code.
 - [duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
-- [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
 - [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
@@ -72,7 +71,6 @@ Total repositories created in C#: 6241191
 - [basic-computer-games](https://github.com/coding-horror/basic-computer-games) - An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-- [Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 - [Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
 - [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 8.0 reference application, now community supported: https://github.com/NimblePros/eShopOnWeb
 - [orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
@@ -102,6 +100,8 @@ Total repositories created in C#: 6241191
 - [SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
 - [ET](https://github.com/egametang/ET) - Unity3D Client And C# Server Framework
 - [Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
+- [Notepads](https://github.com/0x7c13/Notepads) - A modern, lightweight text editor with a minimalist design.
+- [Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
 
 
 ## License
@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 
-##### _Last Run on 19-04-2025 11:14:02_
+##### _Last Run on 19-04-2025 12:32:27_
