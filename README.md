@@ -1,6 +1,6 @@
 # Tools create in C# : 
 
-Total repositories created in C#: 6553357
+Total repositories created in C#: 6553417
 
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
@@ -88,7 +88,7 @@ Total repositories created in C#: 6553357
 - [PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
 - [AutoMapper](https://github.com/LuckyPennySoftware/AutoMapper) - A convention-based object-object mapper in .NET. 
 - [CefSharp](https://github.com/cefsharp/CefSharp) - .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
-- [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 Preview 5, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
+- [practical-aspnetcore](https://github.com/dodyg/practical-aspnetcore) - Practical samples of ASP.NET Core 10 Preview 7, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contains explanations on all projects.
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required
@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 
-##### _Last Run on 19-08-2025 06:29:12_
+##### _Last Run on 19-08-2025 07:17:50_
